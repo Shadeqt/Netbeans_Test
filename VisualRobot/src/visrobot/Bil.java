@@ -77,5 +77,11 @@ public class Bil {
         Bil b = new Bil(0,0);
         b.executeTest();
     }
+    
+    //DETTE ER BARE EN TEST TIL GITHUB
+    public void test()
+    {
+        String al = "yolo";
+    }
 
 }
