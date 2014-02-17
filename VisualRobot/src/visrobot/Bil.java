@@ -81,7 +81,7 @@ public class Bil {
     //DETTE ER BARE EN TEST TIL GITHUB
     public void test()
     {
-        float al = (float) 4.4;
+        char al = 'h';
         System.out.println(al);
     }
 
