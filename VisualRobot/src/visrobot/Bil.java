@@ -81,7 +81,7 @@ public class Bil {
     //DETTE ER BARE EN TEST TIL GITHUB
     public void test()
     {
-        String al = "never ever again";
+        double al = 3.3;
         System.out.println(al);
     }
 
