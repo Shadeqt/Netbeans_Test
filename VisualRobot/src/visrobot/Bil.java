@@ -82,6 +82,7 @@ public class Bil {
     public void test()
     {
         String al = "never ever again";
+        System.out.println(al);
     }
 
 }
