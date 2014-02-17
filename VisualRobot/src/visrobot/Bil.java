@@ -81,7 +81,7 @@ public class Bil {
     //DETTE ER BARE EN TEST TIL GITHUB
     public void test()
     {
-        String al = "yolo";
+        String al = "never ever again";
     }
 
 }
