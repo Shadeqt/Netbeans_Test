@@ -81,7 +81,7 @@ public class Bil {
     //DETTE ER BARE EN TEST TIL GITHUB
     public void test()
     {
-        double al = 3.3;
+        float al = (float) 4.4;
         System.out.println(al);
     }
 
